@@ -1,0 +1,5 @@
+__pycache__
+*.db
+*.txt
+.idea
+config.py
